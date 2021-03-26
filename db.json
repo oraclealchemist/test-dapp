@@ -1,4 +1,8 @@
 {
-  "id": 0,
-  "title": "Token 0"
+  "tokens": [
+    { "id": 0, "title": "Token 0" },
+    { "id": 1, "title": "Token 1" },
+    { "id": 2, "title": "Token 2" },
+    { "id": 3, "title": "Token 3" }
+  ]
 }
