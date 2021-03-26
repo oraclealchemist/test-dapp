@@ -33,7 +33,8 @@ header {
 }
 
 #mm-logo {
-  width: 100%;
+  width: 250px;
+  height: 250px;
 }
 
 /* Encrypt/Decrypt */
